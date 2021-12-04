@@ -25,14 +25,14 @@ Edit `settings.json`
 }
 ```
 
-Run Main.py
+Run run.py
 
 ### Commands
 
-.token tokenhere
-.claims claimshere
-.start
-.stop
+* .token tokenhere
+* .claims claimshere
+* .start
+* .stop
 
 #### How to get your token. 
 
