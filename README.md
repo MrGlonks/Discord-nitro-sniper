@@ -1,6 +1,6 @@
 Discord Nitro sniper Written in GO lang
 
-![Screenshot](screenshot.png)
+![Screenshot](untitled.png)
 
 #### Features
 
