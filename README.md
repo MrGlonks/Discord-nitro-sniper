@@ -25,6 +25,15 @@ Edit `settings.json`
 }
 ```
 
+Run Main.py
+
+### Commands
+
+.token tokenhere
+.claims claimshere
+.start
+.stop
+
 #### How to get your token. 
 
 https://www.youtube.com/watch?v=YEgFvgg7ZPI
