@@ -1,6 +1,5 @@
 Discord Nitro sniper Written in GO lang
 
-👋 Wow this looks like Slows Sniper Maybe the same src 😲
 
 ![Screenshot](Untitled.png)
 
